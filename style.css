@@ -1,0 +1,50 @@
+/* Universal Selector */
+
+/* *{
+    color: blue;
+} */
+
+/* Type Selector */
+
+/* h1,p{
+    color: brown;
+} */
+
+/* class selector */
+
+/* .head{
+    font-style: italic;
+    color: aqua;
+} */
+
+/* id selector */
+
+/* #Head{
+    color: brown;
+}
+#para{
+    font-style: italic;
+} */
+
+/* Child selector */
+
+/* ol>li{
+    color: chartreuse;
+} */
+
+/* Descendant Selector */
+
+/* ul li{
+    color: aquamarine;
+} */
+
+/* Adjacent Sibling
+Selector */
+
+/* h1+p{
+    color: blueviolet;
+} */
+
+h2~p{
+    color: antiquewhite;
+}
